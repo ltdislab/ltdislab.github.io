@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ltdislab.github.io/ka/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/ka/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/ka/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/ka/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/ka/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/ka/"
+                />
+  </url>
+  
+</urlset>
