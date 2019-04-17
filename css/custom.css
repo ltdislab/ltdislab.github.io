@@ -6,13 +6,24 @@ h1, h2, h3, h4 {
     /* font-family: 'B612 Mono', monospace; */
     font-family: 'Dancing Script', "BPG Irubaqidze", cursive, sans-serif;
     text-transform: capitalize;
-    /* color: #a9a9b3; */
+    color: #a9a9b3;
 }
 body {
     font-family: 'Ubuntu Mono', monospace;
-    /* background-color: #292a2d; */
-    /* color: #a9a9b3; */
-    background-color: #fcfcfc;
+    background-color: #272729;
+    color: #a9a9b3;
+    /* background-image: url("../images/islab-bg.jpg"); */
+    /* background-color: #fcfcfc; */
+}
+.wrapper {
+    /* background-color: rgba(0, 0, 0, 0.2); */
+}
+.content-wrapper {
+    /* min-height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); */
+}
+.navigation .nav-wrap {
+    background: rgba(0,0,0,0.8);
 }
 .about .avatar img {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
@@ -21,7 +32,7 @@ a, p a {
     font-weight: normal;
     font-family: 'Ubuntu Mono', monospace;
     transition: none;
-    /* color: #a9a9b3; */
+    color: #a9a9b3;
     text-decoration: none;
 }
 a:hover {
@@ -37,9 +48,7 @@ a:hover {
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     height: 60px;
 }
-.navigation .nav-wrap {
-    background: rgba(0,0,0,0.75);
-}
+
 .navigation .navigation-title {
     font-size: 2.5rem;
     padding-left: 5rem;
