@@ -46,21 +46,6 @@
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/en/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="https://ltdislab.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ltdislab.github.io/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ltdislab.github.io/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -72,6 +57,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ltdislab.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/"
                 />
   </url>
   

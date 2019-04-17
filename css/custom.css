@@ -63,6 +63,7 @@ a:hover {
 .navigation .navigation-title {
     font-size: 2.5rem;
     padding-left: 4rem;
+    color: #fcfcfc;
 }
 .navigation .navigation-title::after, .navigation .navigation-title::before {
     display: none;
