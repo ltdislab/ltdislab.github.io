@@ -10,5 +10,29 @@
 	<atom:link href="https://ltdislab.github.io/ka/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Projects</title>
+      <link>https://ltdislab.github.io/ka/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltdislab.github.io/ka/projects/</guid>
+      <description>--   -- MyDoc MyDoc is a SaaS platform, It&amp;rsquo;s a tool for building telemedical platform on top of the existing flow, that would enable healthcare providers to simplify and accelerate all types of communication, to reduce costs of provided services and much more.
+Features:
+ Symptom Checker, Health History Management, AI Based Diagnosis, Medical Document Sharing, Text/Video/Audio Chat
+ Built using:
+ Go, Node.js, VueJS, Vuex, Nuxt, Postgres, Docker, Micro-services</description>
+    </item>
+    
+    <item>
+      <title>შესახებ</title>
+      <link>https://ltdislab.github.io/ka/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltdislab.github.io/ka/about/</guid>
+      <description>რაღაც ტექსტი
+ქვე სათაური My first comupter was IBM XT 286. I was seven when we got one. After that moment I wanted to know everything about computers. My father did some coding back then and I was sitting next to him watching all those strange combination of words and symbols and I knew that I wanted to learn it. From that moment I am learning&amp;hellip;
+Worked on More Then 200 Projects I&amp;rsquo;ve Worked in several web development companies.</description>
+    </item>
+    
   </channel>
 </rss>

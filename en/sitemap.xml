@@ -59,6 +59,16 @@
   
   <url>
     <loc>https://ltdislab.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/ka/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/about/"
+                />
   </url>
   
   <url>
@@ -78,6 +88,16 @@
   
   <url>
     <loc>https://ltdislab.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/ka/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/projects/"
+                />
   </url>
   
 </urlset>
