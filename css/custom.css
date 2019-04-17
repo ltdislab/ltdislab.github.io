@@ -13,11 +13,11 @@ body {
     font-family: 'Ubuntu Mono', monospace;
     background-color: #272729;
     color: #a9a9b3;
-    /* background-image: url("../images/islab-bg.jpg"); */
+    background-image: url("../images/islab-bg.jpg");
     /* background-color: #fcfcfc; */
 }
 .wrapper {
-    /* background-color: rgba(0, 0, 0, 0.2); */
+    background-color: rgba(0, 0, 0, 0.9);
 }
 .content-wrapper {
     /* min-height: 100%;
