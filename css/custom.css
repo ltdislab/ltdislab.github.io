@@ -6,25 +6,28 @@ h1, h2, h3, h4 {
     /* font-family: 'B612 Mono', monospace; */
     font-family: 'Dancing Script', "BPG Irubaqidze", cursive, sans-serif;
     text-transform: capitalize;
-    color: #a9a9b3;
+    /* color: #a9a9b3; */
 }
 body {
     font-family: 'Ubuntu Mono', monospace;
-    background-color: #292a2d;
-    color: #a9a9b3;
+    /* background-color: #292a2d; */
+    /* color: #a9a9b3; */
+}
+.about .avatar img {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 a, p a {
     font-weight: normal;
     font-family: 'Ubuntu Mono', monospace;
     transition: none;
-    color: #a9a9b3;
+    /* color: #a9a9b3; */
     text-decoration: none;
 }
 a:hover {
     opacity: 0.75;
 }
 .navigation {
-    background-color: #252627;
+    /* background-color: #252627; */
 }
 .navigation .navigation-title {
     font-size: 2.5rem;
@@ -54,7 +57,7 @@ a:before,  a:after {
 
 .navigation a:before, .navigation a:after {
     height: 1px;
-    background: #a9a9b3;
+    /* background: #a9a9b3; */
     transition: 0.2s;
     bottom: -5px;
 }
