@@ -30,9 +30,15 @@ a:hover {
 .navigation {
     position: sticky;
     top: 0px;
+    background: url("../images/islabbg.jpg");
     /* background-color: #252627; */
-    background-color: #fff;
+    z-index: 100;
+    /* background-color: #fff; */
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    height: 60px;
+}
+.navigation .nav-wrap {
+    background: rgba(0,0,0,0.75);
 }
 .navigation .navigation-title {
     font-size: 2.5rem;
@@ -73,6 +79,7 @@ a:hover {
     font-size: 2rem;
     text-transform: capitalize;
     letter-spacing: .2rem;
+    color: #fff;
 }
 a:before,  a:after {
     height: 0;
