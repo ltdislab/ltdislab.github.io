@@ -36,11 +36,29 @@ a:hover {
 }
 .navigation .navigation-title {
     font-size: 2.5rem;
+    padding-left: 5rem;
 }
 .navigation .navigation-title::after, .navigation .navigation-title::before {
     display: none;
 }
-.navigation .navigation-title span {
+.navigation .navigation-title img {
+    position: absolute;
+    width: 4rem;
+    height: auto;
+    border-radius: 50%;
+    left: 0;
+    top: -4px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+@media only screen and (max-device-width: 768px) and (min-device-width: 320px) {
+    .navigation ul{
+        top: auto;
+        transform: translateY(6.1rem);
+    }
+}
+
+
+.navigation .navigation-title .sub-title {
     position: absolute;
     font-size: 0.7rem;
     top: 0px;
