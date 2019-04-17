@@ -33,7 +33,7 @@ body {
     transform: translate(-50%, -50%);
 } */
 .about .avatar img {
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 0;
 }
 a, p a {
     font-weight: normal;
@@ -60,18 +60,17 @@ a:hover {
 
 .navigation .navigation-title {
     font-size: 2.5rem;
-    padding-left: 5rem;
+    padding-left: 4rem;
 }
 .navigation .navigation-title::after, .navigation .navigation-title::before {
     display: none;
 }
 .navigation .navigation-title img {
     position: absolute;
-    width: 4rem;
+    width: 2.75rem;
     height: auto;
-    border-radius: 50%;
     left: 0;
-    top: -4px;
+    top: -5px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 @media only screen and (max-device-width: 768px) and (min-device-width: 320px) {

@@ -3,100 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ltdislab.github.io/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ltdislab.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ltdislab.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/posts/machine-learning/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/posts/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/tags/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="https://ltdislab.github.io/ka/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ltdislab.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/tags/coursera/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/tags/machine-learning/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="https://ltdislab.github.io/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://ltdislab.github.io/about/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/about/"
+                />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/categories/</loc>
+    <loc>https://ltdislab.github.io/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/categories/"
+                href="https://ltdislab.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/categories/"
+                href="https://ltdislab.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/projects/</loc>
+    <loc>https://ltdislab.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/projects/"
+                href="https://ltdislab.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/projects/"
+                href="https://ltdislab.github.io/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/tags/"
                 />
   </url>
   

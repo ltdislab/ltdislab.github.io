@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ltdislab.github.io/ka/categories/</loc>
+    <loc>https://ltdislab.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://ltdislab.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
                 href="https://ltdislab.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="https://ltdislab.github.io/ka/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/ka/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ltdislab.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="https://ltdislab.github.io/ka/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ltdislab.github.io/ka/tags/</loc>
+    <loc>https://ltdislab.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://ltdislab.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
                 href="https://ltdislab.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ltdislab.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/contact/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/tags/"
+                href="https://ltdislab.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/ka/</loc>
+    <loc>https://ltdislab.github.io/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/"
+                href="https://ltdislab.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/"
+                href="https://ltdislab.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/ka/about/</loc>
+    <loc>https://ltdislab.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/about/"
+                href="https://ltdislab.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/ka/about/"
+                href="https://ltdislab.github.io/about/"
                 />
   </url>
   
