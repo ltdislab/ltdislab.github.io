@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>https://ltdislab.github.io/en/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://ltdislab.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ltdislab.github.io/en/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ltdislab.github.io/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
