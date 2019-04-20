@@ -11,24 +11,13 @@
     
     
     <item>
-      <title>About Me</title>
+      <title>About Us</title>
       <link>https://ltdislab.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ltdislab.github.io/en/about/</guid>
-      <description>maka test ის ლაბი არის საკონსულტაციო კომპანია, რომელიც დაგეხმარებათ თქვენს კომპანიაში არსებული ბიზნეს პროცესების შესწავლაში, მათ ოპტიმიზაციასა და ავტომატიზაციაში.
-1231231
-სხვაგვარად რომ ვთქვათ, ჩვენ შევისწავლით თქვენს საქმიანობას, მოგისმენთ რომ გავიგოთ თუ რა არ მოგწონთ, რას შეცვლიდით ან გააუმჯობესებდით. გეტყვით ჩვენს მოსაზრებასა და ხედვას, ხოლო ამის შემდგომ უკვე თქვენთან ერთად და შეთანხმებით მოვიფიქრებთ საუკეთესო გადაწყვეტას, რომელის განუყოფელი ნაწილიც იქნება პორტალის, საიტისა თუ რაიმე სახის საინფორმაციო სისტემის შექმნა. იმისათვის რომ სწორად მივიტანოთ ჩვენი ნამსჯელი და ნაფიქრი გადაწყვეტა დეველოპერებამდე - დაგიწერთ ფუნქციონალის აღწერის დოკუმენტს (ე.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://ltdislab.github.io/en/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ltdislab.github.io/en/blog/</guid>
-      <description>maka blog test ის ლაბი არის საკონსულტაციო კომპანია, რომელიც დაგეხმარებათ თქვენს კომპანიაში არსებული ბიზნეს პროცესების შესწავლაში, მათ ოპტიმიზაციასა და ავტომატიზაციაში.
-სხვაგვარად რომ ვთქვათ, ჩვენ შევისწავლით თქვენს საქმიანობას, მოგისმენთ რომ გავიგოთ თუ რა არ მოგწონთ, რას შეცვლიდით ან გააუმჯობესებდით. გეტყვით ჩვენს მოსაზრებასა და ხედვას, ხოლო ამის შემდგომ უკვე თქვენთან ერთად და შეთანხმებით მოვიფიქრებთ საუკეთესო გადაწყვეტას, რომელის განუყოფელი ნაწილიც იქნება პორტალის, საიტისა თუ რაიმე სახის საინფორმაციო სისტემის შექმნა. იმისათვის რომ სწორად მივიტანოთ ჩვენი ნამსჯელი და ნაფიქრი გადაწყვეტა დეველოპერებამდე - დაგიწერთ ფუნქციონალის აღწერის დოკუმენტს (ე.</description>
+      <description>Our Company is pretty new and young, but our team members have 10+ years of experience both in Governmental and Private sectors. They have worked with different International Organizations in frames of different projects. Our Team Members have
+ Analyzed 200+ services, systems and platforms Fundamental Knowledge in Information Security Managed large projects such as:  Internet-Mobile and SMS Bank Creation Implementation of Core Banking System Billing System Swap for Telecommunications Company   And now they are willing to direct all this experience towards Success of Your Company!</description>
     </item>
     
     <item>
@@ -37,13 +26,21 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ltdislab.github.io/en/contact/</guid>
-      <description>Here is some ways how you can contact us:
- Phone: 555 123456
-Fax: who uses fax?
-E-mail: ltd.islab@gmail.com
+      <description>Here are some ways you can contact us:
+ E-mail: ltd.islab@gmail.com
 Facebook: https://www.facebook.com/ISLabGeorgia/
 Website: https://islab.ge
  </description>
+    </item>
+    
+    <item>
+      <title>What we Do ?</title>
+      <link>https://ltdislab.github.io/en/whatwedo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltdislab.github.io/en/whatwedo/</guid>
+      <description>IS Lab is a Consulting Company. We help describe and analyze, optimize and automate Business Processes within your Company.
+In other words, we study your Business, listen to you carefully in order to find out what can be changed or improved. Think and deliver our opinion and vision. Afterwards together with you choose the best solution that will be developed as some type of Information System. In order to make sure that the solution we created is precisely delivered to developers - we create Business Process Analysis and Functional Specifications document.</description>
     </item>
     
   </channel>
