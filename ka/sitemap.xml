@@ -3,89 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ltdislab.github.io/categories/</loc>
+    <loc>https://islab.ge/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/categories/"
+                href="https://islab.ge/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/categories/"
+                href="https://islab.ge/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/tags/</loc>
+    <loc>https://islab.ge/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/tags/"
+                href="https://islab.ge/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/tags/"
+                href="https://islab.ge/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/contact/</loc>
+    <loc>https://islab.ge/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/contact/"
+                href="https://islab.ge/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/contact/"
+                href="https://islab.ge/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/</loc>
+    <loc>https://islab.ge/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/"
+                href="https://islab.ge/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/"
+                href="https://islab.ge/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/whatwedo/</loc>
+    <loc>https://islab.ge/whatwedo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/whatwedo/"
+                href="https://islab.ge/en/whatwedo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/whatwedo/"
+                href="https://islab.ge/whatwedo/"
                 />
   </url>
   
   <url>
-    <loc>https://ltdislab.github.io/about/</loc>
+    <loc>https://islab.ge/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ltdislab.github.io/en/about/"
+                href="https://islab.ge/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
-                href="https://ltdislab.github.io/about/"
+                href="https://islab.ge/about/"
                 />
   </url>
   

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ის ლაბ - IS Lab</title>
-    <link>https://ltdislab.github.io/en/</link>
+    <link>https://islab.ge/en/</link>
     <description>Recent content on ის ლაბ - IS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://ltdislab.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://islab.ge/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>https://ltdislab.github.io/en/about/</link>
+      <link>https://islab.ge/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltdislab.github.io/en/about/</guid>
+      <guid>https://islab.ge/en/about/</guid>
       <description>Our Company is pretty new and young, but our team members have 10+ years of experience both in Governmental and Private sectors. They have worked with different International Organizations in frames of different projects. Our Team Members have
  Analyzed 200+ services, systems and platforms Fundamental Knowledge in Information Security Managed large projects for instance such as:  Internet-Mobile and SMS Bank Creation Implementation of Core Banking System Billing System Swap for Telecommunications Company   And now they are willing to direct all this experience towards Success of Your Company!</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ltdislab.github.io/en/contact/</link>
+      <link>https://islab.ge/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltdislab.github.io/en/contact/</guid>
+      <guid>https://islab.ge/en/contact/</guid>
       <description>Here are some ways you can contact us:
  E-mail: ltd.islab@gmail.com
 Facebook: https://www.facebook.com/ISLabGeorgia/
@@ -35,12 +35,13 @@ Website: https://islab.ge
     
     <item>
       <title>What we Do ?</title>
-      <link>https://ltdislab.github.io/en/whatwedo/</link>
+      <link>https://islab.ge/en/whatwedo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltdislab.github.io/en/whatwedo/</guid>
+      <guid>https://islab.ge/en/whatwedo/</guid>
       <description>IS Lab is a Consulting Company. We help describe and analyze, optimize and automate Business Processes within your Company.
-In other words, we study your Business, listen to you carefully in order to find out what can be changed or improved. Think and deliver our opinion and vision. Afterwards together with you choose the best solution that will be developed as some type of Information System. In order to make sure that the solution we created is precisely delivered to developers - we create Business Process Analysis and Functional Specifications document.</description>
+In other words, we study your Business, listen to you carefully in order to find out what can be changed or improved. Think and deliver our opinion and vision. Afterwards together with you choose the best solution that will be developed as some type of Information System.
+In order to make sure that the solution we created is precisely delivered to developers - we create Business Process Analysis and Functional Specifications document.</description>
     </item>
     
   </channel>
