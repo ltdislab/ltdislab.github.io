@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://islab.ge/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +18,6 @@
   
   <url>
     <loc>https://islab.ge/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +27,20 @@
                 rel="alternate"
                 hreflang="ka"
                 href="https://islab.ge/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://islab.ge/testimonials/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://islab.ge/en/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="https://islab.ge/testimonials/"
                 />
   </url>
   
@@ -48,7 +60,6 @@
   
   <url>
     <loc>https://islab.ge/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
